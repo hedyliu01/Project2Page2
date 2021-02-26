@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Mayenne Sans Regular";
+    src: url("./assets/Mayenne_Sans-Regular_web.woff2") format("woff2"); 
+  }
+
+
+  .mark{
+    font-family:"Mayenne Sans Regular";
+    font-size: 100px;
+    text-indent: 3cm;
+    color: plum
+     }
+
+     .quotation:hover{
+        opacity: 0;
+     }
+
+     .bodytext{
+        font-family:"Mayenne Sans Regular";
+        font-size: 35px;
+        margin-left: 7cm;
+        margin-right: 7cm;
+     }
+
+     .body{
+         scroll-behavior: auto;
+     }
+
+     .twomark{
+        font-family:"Mayenne Sans Regular";
+        font-size: 100px;
+        text-align: right;
+        margin-right: 3cm;
+        color: cadetblue;
+         }
