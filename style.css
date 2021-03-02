@@ -33,3 +33,7 @@
         margin-right: 3cm;
         color: cadetblue;
          }
+
+         .transparent{
+             opacity: 0.3;
+         }
